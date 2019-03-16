@@ -1,4 +1,5 @@
 # trading_center
+<<<<<<< HEAD
 
 
 
@@ -31,3 +32,6 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+=======
+大学城街舞交易信息平台
+>>>>>>> d0a6e3d73c063208b8be3ddd760035d4d4fe451e
