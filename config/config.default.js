@@ -24,7 +24,7 @@ module.exports = appInfo => {
     
     // 这个是测试号版本
     app_id:'wxcfda2ef8d793849e',
-    app_secret:'8555ef66610f048dfa6bad664cfb8f9f'
+    app_secret:'8606993cbc1f99b3c84ab7c9d0f9bafa'
   };
 
   // sequelize 配置
