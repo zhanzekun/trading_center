@@ -18,6 +18,8 @@ module.exports = app => {
     tips:STRING(255),
     created_at: DATE,
     updated_at: DATE,
+    teacher:STRING(255),
+    open_id:STRING(255),
   });
 
   return class_info;
